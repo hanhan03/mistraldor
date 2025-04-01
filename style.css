@@ -1,15 +1,15 @@
 body {
-    font-family: "Playfair Display", serif; /* 優雅字體 */
+    font-family: "Playfair Display", serif;
     padding: 20px;
     background-color: #f4f4f4;
     text-align: center;
 }
 
 h1 {
-    font-size: 48px; /* 增大標題字體 */
-    font-weight: bold; /* 加粗 */
+    font-size: 48px;
+    font-weight: bold;
     color: #333;
-    margin-top: 100px; /* 增加與橫幅的距離 */
+    margin-top: 100px;
     font-family: "Playfair Display", serif;
 }
 
