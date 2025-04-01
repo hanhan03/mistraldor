@@ -3,7 +3,36 @@ body {
     padding: 20px;
     background-color: #f4f4f4;
   }
+
+.banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #DAA520;
+    padding: 10px 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
   
+  .banner button {
+    background-color: #fff;
+    border: none;
+    padding: 10px 20px;
+    flex-grow: 1;
+    max-width: 150px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .banner button:hover {
+    background-color: #ddd;
+  }
+
   h1 {
     text-align: center;
     color: #333;
