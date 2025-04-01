@@ -4,6 +4,10 @@ body {
     background-color: #f4f4f4;
   }
 
+  h1 {
+    text-align: center;
+    color: #333;
+  }
 .banner {
     position: fixed;
     top: 0;
@@ -31,11 +35,6 @@ body {
   
   .banner button:hover {
     background-color: #ddd;
-  }
-
-  h1 {
-    text-align: center;
-    color: #333;
   }
   
   .product-grid {
